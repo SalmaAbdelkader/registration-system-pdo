@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,400;1,400&family=Sansita+Swashed:wght@300&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap');
+*{
+    padding : 0;
+    margin: 0;
+    box-sizing:border-box;
+
+}
+body{
+  font-family:'poppins',sans-serif ;
+
+} 
+
+/* ------------START LOGIN STYLE--------------------- */
+#login-form{
+  width: 50%;
+  margin: 5px auto;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #26679D;
+}
+#login-form input{
+  width: 50%;
+  margin: 5px auto;
+
+}
+#login-form #login-btn{
+  background-color: #26679D;
+  color: #fff;
+}
+#login-form #register-url{
+  color: #26679D;
+ 
+}
+
+/* ------------------END LOGIN ---------------------- */
+
+/* ------------START REGISTER STYLE--------------------- */
+#register-form{
+  width: 50%;
+  margin: 5px auto;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #26679D;
+}
+#register-form input{
+  width: 50%;
+  margin: 5px auto;
+
+}
+#register-form #register-btn{
+  background-color: #26679D;
+  color: #fff;
+}
+#register-form #login-url{
+  color: #26679D;
+  
+}
+
+/* ------------------END REGISTER ---------------------- */
+
+
